@@ -2,4 +2,14 @@
 First task is to update the system, that includes the local
 database of av available packages.
 
-`sudo apt update`{{execute}}
+
+1. `sudo apt update`{{execute}}
+2. `sudo apt upgrade -y`{{execute}}
+
+Notice in step 2 how I added "-y" to accsept and update
+packages for us.
+
+
+
+
+
